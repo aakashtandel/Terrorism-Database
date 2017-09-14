@@ -28,9 +28,6 @@ From Kaggle:
 
 > "The threatened or actual use of illegal force and violence by a non-state actor to attain a political, economic, religious, or social goal through fear, coercion, or intimidation."
 
-You will need to make use of the [codebook](http://start.umd.edu/gtd/downloads/Codebook.pdf) that functions as a data dictionary.
-
-Moreover, this [2007 paper by LaFree (UMD)](https://ccjs.umd.edu/sites/ccjs.umd.edu/files/pubs/FTPV_A_224594.pdf) introduces the dataset very well.
 
 ## Materials 
 - Jupyter Notebook: "Project 5 - Predicting Terrorism with Bayesian Inference.ipynb"
